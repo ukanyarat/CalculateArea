@@ -1,0 +1,14 @@
+D:\for github\CalArea\CalArea\bin\Debug\net8.0\CalArea.exe
+D:\for github\CalArea\CalArea\bin\Debug\net8.0\CalArea.deps.json
+D:\for github\CalArea\CalArea\bin\Debug\net8.0\CalArea.runtimeconfig.json
+D:\for github\CalArea\CalArea\bin\Debug\net8.0\CalArea.dll
+D:\for github\CalArea\CalArea\bin\Debug\net8.0\CalArea.pdb
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.AssemblyInfoInputs.cache
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.AssemblyInfo.cs
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.csproj.CoreCompileInputs.cache
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.dll
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\refint\CalArea.dll
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.pdb
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\CalArea.genruntimeconfig.cache
+D:\for github\CalArea\CalArea\obj\Debug\net8.0\ref\CalArea.dll
